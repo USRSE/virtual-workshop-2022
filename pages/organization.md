@@ -7,7 +7,7 @@ permalink: /organization/
 
 # Chairs
 
-- Sandra Gesing (University of Notre Dame)
+- Sandra Gesing (University of Illinois Discovery Partners Institute)
 - Julia Damerow (Arizona State University)
 
 # Steering Committee
