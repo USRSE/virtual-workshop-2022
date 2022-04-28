@@ -20,6 +20,10 @@ permalink: /organization/
 - Christina Maimone (Northwestern University)
 - Lance Parsons (Princeton University)
 
+# Technical Program Chair
+
+tbd
+
 # Reviewers
 
 tbd
