@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing the 2021 US-RSE Virtual Workshop
+title: Announcing the 2022 US-RSE Virtual Workshop
 date: 2022-04-27
 tags:
 ---
