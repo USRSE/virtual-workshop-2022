@@ -19,7 +19,7 @@ We invite submissions for the 2022 US-RSE Virtual Workshop to be held virtually 
 
 <!-- Talk Submissions are now closed. If you want to check on your previously submitted a talk abstract, please login to [EasyChair](https://easychair.org/). -->
 
-**Breakout discussion topics:** tbd
+**Breakout discussion topics:** [EasyChair](https://easychair.org/conferences/?conf=usrsevw2022)
 
 ### Deadlines
 
