@@ -15,7 +15,7 @@ We invite submissions for the 2022 US-RSE Virtual Workshop to be held virtually 
 ### Submission
 
 
-**Talks:** tbd
+**Talks:** [EasyChair](https://easychair.org/conferences/?conf=usrsevw2022)
 
 <!-- Talk Submissions are now closed. If you want to check on your previously submitted a talk abstract, please login to [EasyChair](https://easychair.org/). -->
 
@@ -33,7 +33,7 @@ We invite submissions for the 2022 US-RSE Virtual Workshop to be held virtually 
 
 We are looking for reviewers for the 2022 US-RSE Virtual Workshop. If you are interested in becoming a reviewer, please fill out the following form by July 15, 2022. Each reviewer will be assigned 2 to 3 submissions to review with about three weeks time to complete the reviews. Submissions are abstracts of 200 words or 500 words, depending on whether authors submit for presentations or breakout sessions.
 
-**Application form**: tbd
+**Application form**: [Reviewer Form](https://tinyurl.com/USRSEreviewer)
 
 **Questions?** Email [contact@us-rse.org](mailto:contact@us-rse.org).
 
