@@ -35,6 +35,14 @@ We are looking for reviewers for the 2022 US-RSE Virtual Workshop. If you are in
 
 **Application form**: [Reviewer Form](https://tinyurl.com/USRSEreviewer)
 
+<br>
+## Call for Session Moderators and Technical Program Chair
+
+This year, we are looking for session moderators and a technical program chair. Session moderators will be assigned to one of the 1 to 1.5 hours long presentation sessions. Their responsibility will be to introduce presenters, moderate questions after a presentation, and ensure all presentations stay within their time limit. The responsibilities of the technical chair will be to assign reviewers to submissions, sending out reminder emails during the review process, and together with the general workshop chairs create the workshop program. Applications can be submitted via the following form.
+
+**Application form**: https://forms.gle/erB6UBzMiLgCjwPD8
+
+
 **Questions?** Email [contact@us-rse.org](mailto:contact@us-rse.org).
 
 <br>
