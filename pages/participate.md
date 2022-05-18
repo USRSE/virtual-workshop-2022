@@ -23,15 +23,15 @@ We invite submissions for the 2022 US-RSE Virtual Workshop to be held virtually 
 
 ### Deadlines
 
-**Talks:** July 15, 2022, 11:59 PM HST.
+**Talks:** July 17, 2022, 11:59 PM HST.
 
-**Breakout discussion topics**: July 15, 2022, 11:59 PM HST.
+**Breakout discussion topics**: July 17, 2022, 11:59 PM HST.
 
 
 <br>
 ## Call for Reviewers
 
-We are looking for reviewers for the 2022 US-RSE Virtual Workshop. If you are interested in becoming a reviewer, please fill out the following form by July 15, 2022. Each reviewer will be assigned 2 to 3 submissions to review with about three weeks time to complete the reviews. Submissions are abstracts of 200 words or 500 words, depending on whether authors submit for presentations or breakout sessions.
+We are looking for reviewers for the 2022 US-RSE Virtual Workshop. If you are interested in becoming a reviewer, please fill out the following form by July 17, 2022. Each reviewer will be assigned 2 to 3 submissions to review with about three weeks time to complete the reviews. Submissions are abstracts of 200 words or 500 words, depending on whether authors submit for presentations or breakout sessions.
 
 **Application form**: [Reviewer Form](https://tinyurl.com/USRSEreviewer)
 
