@@ -22,8 +22,27 @@ permalink: /organization/
 
 # Technical Program Chair
 
-tbd
+- Richard Abdill (University of Pennsylvania)
+- Mahmood Shad (Harvard University)
+
+# Session Moderators
+
+- Daniel Howard (National Center for Atmospheric Research)
+- Daniel S. Katz (University of Illinois at Urbana-Champaign)
 
 # Reviewers
 
-tbd
+- Bruce Atwood (McLean Hospital)
+- Daniela Cialfi (University of Studies G.D'Annunzio Chieti-Pescara)
+- Nasir Eisty (Boise State University)
+- Jason M. Gates (Sandia National Laboratories)
+- Dan Gunter (Lawrence Berkeley National Laboratory)
+- Daniel Howard (National Center for Atmospheric Research)
+- Helen Kershaw (National Center for Atmospheric Research)
+- Chris Martin (Indiana University)
+- Michelle Mellers (Uniformed Services University of the Health Sciences)
+- Maithilee Mitra (Johns Hopkins University)
+- Miranda Mundt (Sandia National Labs)
+- Chuck Pavloski (The Pennsylvania State University - Institute for Computation and Data Sciences)
+- Mahmood Shad (Harvard University)
+- Gregory Watson (Oak Ridge National Laboratory)
