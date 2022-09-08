@@ -54,6 +54,4 @@ This year, we are looking for session moderators and a technical program chair. 
 <br>
 ## Registration
 
-Registration hasn't open yet.
-
-<!-- Registration is now open! Please see our [registration page](https://forms.gle/P31PaQykLWqe1MKm8) for more info. -->
+Registration is now open! Please see our <a href="{{ site.baseurl }}/registration">registration page</a> for more info.
