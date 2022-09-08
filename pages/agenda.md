@@ -40,7 +40,7 @@ permalink: /agenda/
     <tr>
       <td colspan="2"><b>Talk Session I</b> (2pm - 3pm ET)
       <br>
-      Moderator: <em>Daniel S. Katz</em>
+      Moderator: <em>tbd</em>
       </td>
     </tr>
     <tr>
@@ -205,6 +205,11 @@ permalink: /agenda/
       By <em>Blaine Mooers</em>
       </td>
     </tr>
+  </tbody>
+</table>
+<p/>
+<table width="100%">
+  <tbody>
     <tr>
       <td colspan="2"><b>Outro</b> (3:50pm - 4pm ET)
       </td>
