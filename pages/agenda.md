@@ -40,7 +40,7 @@ permalink: /agenda/
     <tr>
       <td colspan="2"><b>Talk Session I</b> (2pm - 3pm ET)
       <br>
-      Moderator: <em>tbd</em>
+      Moderator: <em>Julia Damerow</em>
       </td>
     </tr>
     <tr>
