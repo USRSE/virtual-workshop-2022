@@ -15,11 +15,13 @@ permalink: /agenda/
       </td>
     </tr><tr>
       <td  width="35%">1pm - 1:10pm ET (10min)</td>
-      <td>Welcome <br> <em>Sandra Gesing, Ian Cosden</em></td>
+      <td><b>Welcome</b> <br> <em>Sandra Gesing, Ian Cosden</em></td>
     </tr>
     <tr>
       <td>1:10 - 1:45pm ET (35min)</td>
-      <td>Keynote by <em>Mary Ann Leung, Ph.D.</em> <br> Founder and President, Sustainable Horizons Institute</td>
+      <td><b>Keynote</b><br>
+      "Black Lives Count: Toward Accountability in Efforts to Diversify Computing" 
+      <br>By <em>Damian Rouson, Ph.D., P.E.</em> <br> Group Lead for the Computer Languages and Systems Software (CLaSS) Group at Berkeley Lab</td>
     </tr>
  </tbody>
 </table>
@@ -40,7 +42,7 @@ permalink: /agenda/
     <tr>
       <td colspan="2"><b>Talk Session I</b> (2pm - 3pm ET)
       <br>
-      Moderator: <em>tbd</em>
+      Moderator: <em>Sandra Gesing</em>
       </td>
     </tr>
     <tr>
