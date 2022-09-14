@@ -89,14 +89,14 @@ permalink: /agenda/
       </td>
     </tr>
     <tr>
-      <td width="35%">3:20pm - 3:40pm ET (20min)</td>
+      <td width="35%"><del>3:20pm - 3:40pm ET (20min)</del></td>
       <td>
-      "Reproducibility Best Practices in Development, Testing, and Data Processing in R"<br>
-      By <em>Naeem Khoshnevis, Mahmood M. Shad</em>
+      CANCELD <del>"Reproducibility Best Practices in Development, Testing, and Data Processing in R"<br>
+      By <em>Naeem Khoshnevis, Mahmood M. Shad</em></del>
       </td>
     </tr>
     <tr>
-      <td>3:40pm - 4pm ET (20min)</td>
+      <td>3:20pm - 3:40pm ET (20min) <del>3:40pm - 4pm ET (20min)</del></td>
       <td>
       "Best Practices for Sustainable Binary Python Packages"<br>
       By <em>Henry Schreiner</em>
