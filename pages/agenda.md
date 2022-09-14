@@ -83,7 +83,7 @@ permalink: /agenda/
 <table width="100%">
   <tbody>
     <tr>
-      <td colspan="2"><b>Talk Session II</b> (3:20pm - 4pm ET)
+      <td colspan="2"><b>Talk Session II</b> (3:40pm - 4pm ET)  <del>(3:20pm - 4pm ET)</del>
       <br>
       Moderator: <em>Daniel S. Katz</em>
       </td>
@@ -96,7 +96,7 @@ permalink: /agenda/
       </td>
     </tr>
     <tr>
-      <td>3:20pm - 3:40pm ET (20min) <br><del>3:40pm - 4pm ET (20min)</del></td>
+      <td>3:40pm - 4pm ET (20min)</td>
       <td>
       "Best Practices for Sustainable Binary Python Packages"<br>
       By <em>Henry Schreiner</em>
