@@ -6,6 +6,8 @@ description: Agenda
 permalink: /agenda/
 ---
 
+You can find a list of abstracts [here]({{ site.baseurl }}/abstracts).
+
 ## Wednesday, September 14, 1pm - 4pm ET
 
 <table width="100%">
@@ -161,13 +163,13 @@ permalink: /agenda/
     </tr>
     <tr>
       <td colspan="2">
-      "The Role of Google Summer of Code within Research Software Engineering"<br>
+      <a href="{{ site.baseurl }}/abstracts#the-role-of-google-summer-of-code-within-research-software-engineering">"The Role of Google Summer of Code within Research Software Engineering"</a><br>
       By <em>Valentina Staneva</em>
       <p/>
-      "Encouraging and Enabling Mutual Ownership in a RSE Community of Practice"<br>
+      <a href="{{ site.baseurl }}/abstracts#encouraging-and-enabling-mutual-ownership-in-a-rse-community-of-practice">"Encouraging and Enabling Mutual Ownership in a RSE Community of Practice"</a><br>
       By <em>Miranda Mundt, Jon Bisila, Reed Milewicz </em>
       <p/>  
-      "Identifying the top three challenges faced by RSEs in national laboratories"<br>
+      <a href="{{ site.baseurl }}/abstracts#identifying-the-top-three-challenges-faced-by-rses-in-national-laboratories">"Identifying the top three challenges faced by RSEs in national laboratories"</a><br>
       By <em>Rinku Gupta</em>
       </td>
     </tr>
