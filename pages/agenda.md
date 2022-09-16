@@ -50,21 +50,21 @@ You can find a list of abstracts [here]({{ site.baseurl }}/abstracts).
     <tr>
       <td  width="35%">2pm - 2:20pm ET (20min)</td>
       <td>
-      "Understanding Factors that Influence Research Computing and Data Careers"<br>
+      <a href="{{ site.baseurl }}/abstracts#understanding-factors-that-influence-research-computing-and-data-careers">"Understanding Factors that Influence Research Computing and Data Careers"</a><br>
       By <em>Patrick Schmitz, Shafaq Chaudhry, Kerk Kee, Arman Pazouki, Elizabett Hillery</em>
       </td>
     </tr>
     <tr>
       <td>2:20pm - 2:40pm ET (20min)</td>
       <td>
-      "How to grow diverse and sustainable teams through mentorship"<br>
+      <a href="{{ site.baseurl }}/abstracts#how-to-grow-diverse-and-sustainable-teams-through-mentorship">"How to grow diverse and sustainable teams through mentorship"</a><br>
       By <em>Caleb Jackson</em>
       </td>
     </tr>
     <tr>
       <td>2:40pm - 3pm ET (20min)</td>
       <td>
-      "How to turn Women in HPC to future RSEs - Activities in Whpc GT chapter"<br>
+      <a href="{{ site.baseurl }}/abstracts#how-to-turn-women-in-hpc-to-future-rses---activities-in-whpc-gt-chapter">How to turn Women in HPC to future RSEs - Activities in Whpc GT chapter"</a><br>
       By <em>Fang Liu</em>
       </td>
     </tr>
@@ -100,7 +100,7 @@ You can find a list of abstracts [here]({{ site.baseurl }}/abstracts).
     <tr>
       <td>3:40pm - 4pm ET (20min)</td>
       <td>
-      "Best Practices for Sustainable Binary Python Packages"<br>
+      <a href="{{ site.baseurl }}/abstracts#best-practices-for-sustainable-binary-python-packages">"Best Practices for Sustainable Binary Python Packages"</a><br>
       By <em>Henry Schreiner</em>
       </td>
     </tr>
@@ -120,21 +120,21 @@ You can find a list of abstracts [here]({{ site.baseurl }}/abstracts).
     <tr>
       <td width="35%">1pm - 1:20pm ET (20min)</td>
       <td>
-      "Supporting collaboration for diverse research/education communities via the Hubzero platform"<br>
+      <a href="{{ site.baseurl }}/abstracts#supporting-collaboration-for-diverse-researcheducation-communities-via-the-hubzero-platform">"Supporting collaboration for diverse research/education communities via the Hubzero platform"</a><br>
       By <em>Amit Chourasia</em>
       </td>
     </tr>
     <tr>
       <td>1:20pm - 1:40pm ET (20min)</td>
       <td>
-      "Heterogeneous Workflow Orchestration with Covalent"<br>
+      <a href="{{ site.baseurl }}/abstracts#heterogeneous-workflow-orchestration-with-covalent">"Heterogeneous Workflow Orchestration with Covalent"</a><br>
       By <em>William Cunningham</em>
       </td>
     </tr>
     <tr>
       <td>1:40pm - 2pm ET (20min)</td>
       <td>
-      "A Survey of Testing Research Software"<br>
+      <a href="{{ site.baseurl }}/abstracts#a-survey-of-testing-research-software">"A Survey of Testing Research Software"</a><br>
       By <em>Nasir Eisty, Jeffrey Carver</em>
       </td>
     </tr>
@@ -198,14 +198,14 @@ You can find a list of abstracts [here]({{ site.baseurl }}/abstracts).
     <tr>
       <td  width="35%">3:10pm - 3:30pm ET (20min)</td>
       <td>
-      "Including UI and UX in the RSE Community"<br>
+      <a href="{{ site.baseurl }}/abstracts#including-ui-and-ux-in-the-rse-community">"Including UI and UX in the RSE Community"</a><br>
       By <em>Dan Gunter, Lavanya Ramakrishnan</em>
       </td>
     </tr>
     <tr>
       <td>3:30pm - 3:50pm ET (20min)</td>
       <td>
-      "The Virtual Oklahoma Data Science Workshop"<br>
+      <a href="{{ site.baseurl }}/abstracts#the-virtual-oklahoma-data-science-workshop">"The Virtual Oklahoma Data Science Workshop"</a><br>
       By <em>Blaine Mooers</em>
       </td>
     </tr>
