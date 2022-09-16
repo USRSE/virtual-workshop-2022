@@ -65,6 +65,8 @@ Finally, we will be looking at the developer guide written for Scikit-HEP, curre
 
 Many research communities are transcending the boundaries of scholarly articles. There is a strong and growing trend to make additional research products available to help validate, reproduce and extend the state of research. These research products may include software, data and documents. However, making these artifacts available to a broad research community requires significant effort and infrastructure. This talk will provide an overview of the Hubzero platform and how it has helped diverse communities to disseminate and enable access to reproducible software on the web for the past 20 years with its core features that includes content, data and software publishing within a collaborative environment.
 
+Slides can be found [here](https://drive.google.com/file/d/1kELcw8ny7UsiVB9Am8uaufx8MUa_1c8z/view).
+
 ---
 
 ### Heterogeneous Workflow Orchestration with Covalent
